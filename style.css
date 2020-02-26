@@ -1,0 +1,54 @@
+body {
+    margin: 0 auto;
+    width: 100%;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    padding: 10px;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+    padding: 10px 10px;
+    font-size: 13px'
+}
+
+ul {
+    display: inline;
+}
+
+a {
+    color: dimgrey;
+    text-align: center;
+    text-decoration: none;
+}
+
+div {
+    position: fixed;
+    bottom: 0;
+}
+
+.nbl {
+    float: left;
+    padding-left: 15px;
+}
+
+.nbr {
+    float: right;
+    padding-right: 15px;
+}
+
+.search{
+    width: 500px;
+    text-align: left;
+}
+
+#logo {
+    display:block
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 200px;
+}
+    
+
